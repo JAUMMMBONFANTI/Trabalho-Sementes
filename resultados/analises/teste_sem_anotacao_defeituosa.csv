@@ -1,0 +1,3 @@
+conjunto,imagens,precisao,recall,f1
+todas as fotos do teste,15,0.8526,0.6829,0.7584
+sem pumpkin_0037.jpg,14,0.8806,0.7213,0.793

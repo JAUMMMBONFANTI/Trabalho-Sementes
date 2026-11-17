@@ -1,0 +1,4 @@
+variante,n_previsto,precisao,recall,f1,mae_contagem
+pipeline final (núcleo relativo ao máximo do componente),316,0.9051,0.7241,0.8045,5.6429
+núcleo relativo ao raio típico da foto (mediana dos máximos),294,0.8605,0.6405,0.7344,7.2143
+preenchimento de buracos antes da separação,280,0.9,0.638,0.7467,8.2143
